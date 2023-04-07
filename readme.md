@@ -1,4 +1,16 @@
 
+<h1 align="center" style="color: green">
+  <a href="https://github.com/iamwill221">
+    Hi, I'm William</a>
+</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I'm your preferred GameDev;I'm your preferred Designer;I'm your preferred Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ousmanewilliamkebe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamwill_221) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamwill_221) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dkempiresn) 
 
@@ -7,10 +19,6 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-https://www.youtube.com/watch?v=E6NO0rgFub4
-![AI's Most Insane Month EVER!!](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI%27s+Most+Insane+Month+EVER%21%21&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI's Most Insane Month EVER!!")](https://www.youtube.com/watch?v=E6NO0rgFub4)
-[![The Untold Story of OpenAI - Microsoft's Takeover](https://ytcards.demolab.com/?id=o07kRSvz7yM&title=The+Untold+Story+of+OpenAI+-+Microsoft%27s+Takeover&lang=en&timestamp=1680613236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1176 "The Untold Story of OpenAI - Microsoft's Takeover")](https://www.youtube.com/watch?v=o07kRSvz7yM)
-[![Why Linux is ACTUALLY GNU/Linux](https://ytcards.demolab.com/?id=GUsFrtllXs8&title=Why+Linux+is+ACTUALLY+GNU%2FLinux&lang=en&timestamp=1679227210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Why Linux is ACTUALLY GNU/Linux")](https://www.youtube.com/watch?v=GUsFrtllXs8)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats:
