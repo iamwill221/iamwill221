@@ -8,7 +8,6 @@
 ## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats:
