@@ -1,7 +1,6 @@
 
 <h1 align="center" style="color: green">
-  <a href="https://github.com/iamwill221">
-    Hi, I'm William</a>
+    Hi, I'm William
 </h1>
 
 <p align="center">
