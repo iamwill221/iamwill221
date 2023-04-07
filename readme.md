@@ -7,6 +7,9 @@
 
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+![AI's Most Insane Month EVER!!](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI%27s+Most+Insane+Month+EVER%21%21&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI's Most Insane Month EVER!!")](https://www.youtube.com/watch?v=4_frwLFlOt8)
+[![The Untold Story of OpenAI - Microsoft's Takeover](https://ytcards.demolab.com/?id=o07kRSvz7yM&title=The+Untold+Story+of+OpenAI+-+Microsoft%27s+Takeover&lang=en&timestamp=1680613236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1176 "The Untold Story of OpenAI - Microsoft's Takeover")](https://www.youtube.com/watch?v=o07kRSvz7yM)
+[![Why Linux is ACTUALLY GNU/Linux](https://ytcards.demolab.com/?id=GUsFrtllXs8&title=Why+Linux+is+ACTUALLY+GNU%2FLinux&lang=en&timestamp=1679227210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Why Linux is ACTUALLY GNU/Linux")](https://www.youtube.com/watch?v=GUsFrtllXs8)
 <!-- END YOUTUBE-CARDS -->
 
 ## 📊 GitHub Stats:
