@@ -4,9 +4,9 @@
 </h1>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a style="color: green"href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/iamwill221)">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm your preferred GameDev🎮;I'm your preferred Designer🎨;I'm your preferred Developer 🧑🏾‍💻  ;Always%20learning%20new%20things😍👌&font=Fira%20Code&center=true&width=440&height=45&color=22B14C&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=40A92A&background=000000&lines=%E2%80%8E+%24+I'm+your+preferred+GameDev;%E2%80%8E+%24+I'm+your+preferred+Designer%F0%9F%8E%A8;%E2%80%8E+%24+I'm+your+preferred+Developer+%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB+;%E2%80%8E+%24+Always+happy+to+learn+new+things%F0%9F%98%8D%F0%9F%91%8C" alt="Typing SVG" />
+  </a>
 </p>
 
 
